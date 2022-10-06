@@ -1,0 +1,94 @@
+[
+    {
+        "id":1,
+        "naziv": "Asos"
+    },
+    {
+        "id":2,
+        "naziv": "Boss"
+    },
+    {
+        "id":3,
+        "naziv": "Hollister tech"
+    },
+    {
+        "id":4,
+        "naziv": "Nike"
+    },
+    {
+        "id":5,
+        "naziv": "Berghaus"
+    },
+    {
+        "id":6,
+        "naziv": "The North Face"
+    },
+    {
+        "id":7,
+        "naziv": "Bershka"
+    },
+    {
+        "id":8,
+        "naziv": "Sixth June"
+    },
+    {
+        "id":9,
+        "naziv": "PulL&Bear"
+    },
+    {
+        "id":10,
+        "naziv": "Dickies"
+    },
+    {
+        "id":11,
+        "naziv": "Adidas"
+    },
+    {
+        "id":12,
+        "naziv": "Hugo"
+    },
+    {
+        "id":13,
+        "naziv": "Reclaimed"
+    },
+    {
+        "id":14,
+        "naziv": "Topman"
+    },
+    {
+        "id":15,
+        "naziv": "Versace"
+    },
+    {
+        "id":16,
+        "naziv": "FCUK"
+    },
+    {
+        "id":17,
+        "naziv": "Reebok"
+    },
+    {
+        "id":18,
+        "naziv":"New Girl Order"
+    },
+    {
+        "id":19,
+        "naziv":"Missguided"
+    },
+    {
+        "id":20,
+        "naziv":"French Connection"
+    },
+    {
+        "id":21,
+        "naziv":"Stradivarius"
+    },
+    {
+        "id":22,
+        "naziv":"Topshop"
+    },
+    {
+        "id":23,
+        "naziv":"In The Style"
+    }
+]

@@ -1,0 +1,32 @@
+[
+    {
+        "id":1,
+        "name":"Home",
+        "href":"index.html"
+    },
+    {
+        "id":3,
+        "name":"Shop",
+        "href":"shop.html"
+    },
+    {
+        "id":4,
+        "name":"Contact",
+        "href":"#contact"
+    },
+    {
+        "id":5,
+        "name":"Author",
+        "href":"author.html"
+    },
+    {
+        "id":6,
+        "name":"Cart",
+        "href":"#cartAside"
+    },
+    {
+        "id":7,
+        "name":"Documentation",
+        "href":"assets/pdf/docs.pdf"
+    }
+]

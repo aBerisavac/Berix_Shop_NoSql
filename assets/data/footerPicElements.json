@@ -1,0 +1,32 @@
+[
+    {
+        "id":1,
+        "src": "https://www.facebook.com/alexa.berisavac",
+        "fa_fa":"fab fa-facebook"
+    },
+    {
+        "id":2,
+        "src": "assets/css/style.css",
+        "fa_fa":"fab fa-css3-alt"
+    },
+    {
+        "id":3,
+        "src": "assets/css/style.scss",
+        "fa_fa":"fab fa-sass"
+    },
+    {
+        "id":4,
+        "src": "assets/js/main.js",
+        "fa_fa":"fab fa-js"
+    },
+    {
+        "id":5,
+        "src": "assets/pdf/docs.pdf",
+        "fa_fa":"fas fa-file-pdf"
+    },
+    {
+        "id":6,
+        "src": "assets/xml/sitemap.xml",
+        "fa_fa":"fas fa-sitemap"
+    }
+]

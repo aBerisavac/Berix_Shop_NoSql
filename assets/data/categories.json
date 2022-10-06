@@ -1,0 +1,26 @@
+[
+    {
+        "id":1,
+        "naziv":"Hoodies and Sweatshirts"
+    },
+    {
+        "id":2,
+        "naziv":"Jackets and Coats"
+    },
+    {
+        "id":3,
+        "naziv":"Jeans"
+    },
+    {
+        "id":4,
+        "naziv":"Joggers"
+    },
+    {
+        "id":5,
+        "naziv":"Jumpers and Cardigans"
+    },
+    {
+        "id":6,
+        "naziv":"Tracksuits and Sweatpants"
+    }
+]

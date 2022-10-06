@@ -1,0 +1,17 @@
+[
+    {
+        "id" : 1,
+        "src" : "carouselSlika1.png",
+        "alt" : "Slika1"
+    },
+    {
+        "id" : 2,
+        "src" : "carouselSlika2.jpg",
+        "alt" : "Slika2"
+    },
+    {
+        "id" : 3,
+        "src" : "carouselSlika3.png",
+        "alt" : "Slika3"
+    }
+]

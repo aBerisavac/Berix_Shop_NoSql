@@ -1,0 +1,802 @@
+[
+    {
+        "id":1,
+        "naziv": "ASOS Dark Future oversized sweatshirt in charcoal wash with chest logo",
+        "img": {
+            "src": "hoodie1.png",
+            "alt": "Hoodie1"
+        },
+        "cena":{
+            "stara": "230.99",
+            "nova": "199.99"
+        },
+        "rating": 4,
+        "pol": "M",
+        "kategorija": 1,
+        "brend": 1
+    },
+    {
+        "id":2,
+        "naziv": "ASOS DESIGN organic sweatshirt in burgundy",
+        "img": {
+            "src": "hoodie2.png",
+            "alt": "Hoodie2"
+        },
+        "cena":{
+            "stara": "/",
+            "nova": "99.99"
+        },
+        "rating": 2,
+        "pol": "M",
+        "kategorija": 1,
+        "brend": 1
+    },
+    {
+        "id":3,
+        "naziv": "BOSS Welogo crew neck sweatshirt in black",
+        "img": {
+            "src": "hoodie3.png",
+            "alt": "Hoodie3"
+        },
+        "cena":{
+            "stara": "112",
+            "nova": "89.99"
+        },
+        "rating": 3,
+        "pol": "M",
+        "kategorija": 1,
+        "brend": 2
+    },
+    {
+        "id":4,
+        "naziv": "Hollister tech chest logo vertical colour block hoodie",
+        "img": {
+            "src": "hoodie4.png",
+            "alt": "Hoodie4"
+        },
+        "cena":{
+            "stara": "187",
+            "nova": "129.99"
+        },
+        "rating": 5,
+        "pol": "M",
+        "kategorija": 1,
+        "brend": 3
+    },
+    {
+        "id":5,
+        "naziv": "Nike pullover hoodie with swoosh logo in black BV2654-010",
+        "img": {
+            "src": "hoodie5.png",
+            "alt": "Hoodie5"
+        },
+        "cena":{
+            "stara": "/",
+            "nova": "29.99"
+        },
+        "rating": 3,
+        "pol": "M",
+        "kategorija": 1,
+        "brend": 4
+    },
+    {
+        "id":6,
+        "naziv": "ASOS DESIGN padded trench coat with quilted lining in black",
+        "img": {
+            "src": "j&c1.png",
+            "alt": "j&c1"
+        },
+        "cena":{
+            "stara": "380",
+            "nova": "299.99"
+        },
+        "rating": 4,
+        "pol": "M",
+        "kategorija": 2,
+        "brend": 1
+    },
+    {
+        "id":7,
+        "naziv": "ASOS DESIGN organic sweatshirt in burgundy",
+        "img": {
+            "src": "j&c2.png",
+            "alt": "j&c2"
+        },
+        "cena":{
+            "stara": "189",
+            "nova": "139.99"
+        },
+        "rating": 1,
+        "pol": "M",
+        "kategorija": 2,
+        "brend": 1
+    },
+    {
+        "id":8,
+        "naziv": "Berghaus Tramantanta 91 jacket in purple",
+        "img": {
+            "src": "j&c3.png",
+            "alt": "j&c3"
+        },
+        "cena":{
+            "stara": "429",
+            "nova": "369.99"
+        },
+        "rating": 4,
+        "pol": "M",
+        "kategorija": 2,
+        "brend": 5
+    },
+    {
+        "id":9,
+        "naziv": "ASOS DESIGN puffer gilet in charcoal",
+        "img": {
+            "src": "j&c4.png",
+            "alt": "j&c4"
+        },
+        "cena":{
+            "stara": "179",
+            "nova": "119.99"
+        },
+        "rating": 3,
+        "pol": "M",
+        "kategorija": 2,
+        "brend": 1
+    },
+    {
+        "id":10,
+        "naziv": "The North Face 1996 Retro Nuptse vest in camo",
+        "img": {
+            "src": "j&c5.png",
+            "alt": "j&c5"
+        },
+        "cena":{
+            "stara": "276",
+            "nova": "113.99"
+        },
+        "rating": 4,
+        "pol": "M",
+        "kategorija": 2,
+        "brend": 6
+    },
+    {
+        "id":11,
+        "naziv": "ASOS DESIGN baggy jeans in mid wash blue",
+        "img": {
+            "src": "jeans1.png",
+            "alt": "jeans1"
+        },
+        "cena":{
+            "stara": "/",
+            "nova": "29.99"
+        },
+        "rating": 1,
+        "pol": "M",
+        "kategorija": 3,
+        "brend": 1
+    },
+    {
+        "id":12,
+        "naziv": "Bershka 90's fit patchwork jeans in light blue",
+        "img": {
+            "src": "jeans2.png",
+            "alt": "jeans2"
+        },
+        "cena":{
+            "stara": "59",
+            "nova": "36.99"
+        },
+        "rating": 4,
+        "pol": "M",
+        "kategorija": 3,
+        "brend": 7
+    },
+    {
+        "id":13,
+        "naziv": "Sixth June distressed skinny jeans with inside panel in blue wash",
+        "img": {
+            "src": "jeans3.png",
+            "alt": "jeans3"
+        },
+        "cena":{
+            "stara": "78",
+            "nova": "36.99"
+        },
+        "rating": 4,
+        "pol": "M",
+        "kategorija": 3,
+        "brend": 8
+    },
+    {
+        "id":14,
+        "naziv": "Bershka 90's fit jeans in light blue with rips",
+        "img": {
+            "src": "jeans4.png",
+            "alt": "jeans4"
+        },
+        "cena":{
+            "stara": "/",
+            "nova": "68.99"
+        },
+        "rating": 3,
+        "pol": "M",
+        "kategorija": 3,
+        "brend": 7
+    },
+    {
+        "id":15,
+        "naziv": "ASOS DESIGN classic rigid jeans in tinted light wash blue",
+        "img": {
+            "src": "jeans5.png",
+            "alt": "jeans5"
+        },
+        "cena":{
+            "stara": "85",
+            "nova": "34.99"
+        },
+        "rating": 2,
+        "pol": "M",
+        "kategorija": 3,
+        "brend": 1
+    },
+    {
+        "id":16,
+        "naziv": "Pull&Bear Join Life joggers with zip pockets in black",
+        "img": {
+            "src": "joggers1.png",
+            "alt": "joggers1"
+        },
+        "cena":{
+            "stara": "29",
+            "nova": "15.99"
+        },
+        "rating": 4,
+        "pol": "M",
+        "kategorija": 4,
+        "brend": 9
+    },
+    {
+        "id":17,
+        "naziv": "Pull&Bear jogger with contrast zips in grey",
+        "img": {
+            "src": "joggers2.png",
+            "alt": "joggers2"
+        },
+        "cena":{
+            "stara": "/",
+            "nova": "24.99"
+        },
+        "rating": 2,
+        "pol": "M",
+        "kategorija": 4,
+        "brend": 9
+    },
+    {
+        "id":18,
+        "naziv": "Adidas Originals Adicolour 3-stripe tracksuit in black",
+        "img": {
+            "src": "joggers3.png",
+            "alt": "joggers3"
+        },
+        "cena":{
+            "stara": "59",
+            "nova": "49.99"
+        },
+        "rating": 5,
+        "pol": "M",
+        "kategorija": 4,
+        "brend": 11
+    },
+    {
+        "id":19,
+        "naziv": "HUGO Durimi cargo joggers in black",
+        "img": {
+            "src": "joggers4.png",
+            "alt": "joggers4"
+        },
+        "cena":{
+            "stara": "/",
+            "nova": "13.99"
+        },
+        "rating": 3,
+        "pol": "M",
+        "kategorija": 4,
+        "brend": 12
+    },
+    {
+        "id":20,
+        "naziv": "Dickies Bienville joggers in black",
+        "img": {
+            "src": "joggers5.png",
+            "alt": "joggers5"
+        },
+        "cena":{
+            "stara": "45",
+            "nova": "24.99"
+        },
+        "rating": 3,
+        "pol": "M",
+        "kategorija": 4,
+        "brend": 10
+    },
+    {
+        "id":21,
+        "naziv": "ASOS DESIGN oversized fisherman rib jumper with mixed stripes",
+        "img": {
+            "src": "jumpers1.png",
+            "alt": "jumpers1"
+        },
+        "cena":{
+            "stara": "/",
+            "nova": "27.99"
+        },
+        "rating": 2,
+        "pol": "M",
+        "kategorija": 5,
+        "brend": 1
+    },
+    {
+        "id":22,
+        "naziv": "Reclaimed Vintage inspired knitted spiced cardigan in netural",
+        "img": {
+            "src": "jumpers3.png",
+            "alt": "jumpers3"
+        },
+        "cena":{
+            "stara": "67",
+            "nova": "28.99"
+        },
+        "rating": 5,
+        "pol": "M",
+        "kategorija": 5,
+        "brend": 13
+    },
+    {
+        "id":23,
+        "naziv": "Topman fluffy knitted cardigan in navy",
+        "img": {
+            "src": "jumpers4.png",
+            "alt": "jumpers4"
+        },
+        "cena":{
+            "stara": "/",
+            "nova": "28.99"
+        },
+        "rating": 3,
+        "pol": "M",
+        "kategorija": 5,
+        "brend": 14
+    },
+    {
+        "id":24,
+        "naziv": "Versace Jeans Couture emblem logo knitted jumper in black",
+        "img": {
+            "src": "jumpers5.png",
+            "alt": "jumpers5"
+        },
+        "cena":{
+            "stara": "429",
+            "nova": "347.99"
+        },
+        "rating": 5,
+        "pol": "M",
+        "kategorija": 5,
+        "brend": 15
+    },
+    {
+        "id":25,
+        "naziv": "ASOS DESIGN knitted oversized jumper in space dye yarn",
+        "img": {
+            "src": "jumpers2.png",
+            "alt": "jumpers2"
+        },
+        "cena":{
+            "stara": "29",
+            "nova": "16.99"
+        },
+        "rating": 4,
+        "pol": "M",
+        "kategorija": 5,
+        "brend": 1
+    },
+    {
+        "id":26,
+        "naziv": "adidas Originals 'Leopard Luxe' oversized sweatshirt in off white",
+        "img": {
+            "src": "hoodie6.png",
+            "alt": "Hoodie6"
+        },
+        "cena":{
+            "stara": "/",
+            "nova": "27.99"
+        },
+        "rating": 2,
+        "pol": "Z",
+        "kategorija": 1,
+        "brend": 11
+    },
+    {
+        "id":27,
+        "naziv": "adidas Originals adicolor boyfriend fit colour block logo hoodie in orange",
+        "img": {
+            "src": "hoodie7.png",
+            "alt": "Hoodie7"
+        },
+        "cena":{
+            "stara": "43",
+            "nova": "21.99"
+        },
+        "rating": 4,
+        "pol": "Z",
+        "kategorija": 1,
+        "brend": 11
+    },
+    {
+        "id":28,
+        "naziv": "FCUK oversized hoodie in black co-ord",
+        "img": {
+            "src": "hoodie8.png",
+            "alt": "Hoodie8"
+        },
+        "cena":{
+            "stara": "/",
+            "nova": "17.99"
+        },
+        "rating": 4,
+        "pol": "Z",
+        "kategorija": 1,
+        "brend": 16
+    },
+    {
+        "id":29,
+        "naziv": "Reebok natural dye central logo hoodie in beige",
+        "img": {
+            "src": "hoodie9.png",
+            "alt": "Hoodie9"
+        },
+        "cena":{
+            "stara": "35",
+            "nova": "22.99"
+        },
+        "rating": 5,
+        "pol": "Z",
+        "kategorija": 1,
+        "brend": 17
+    },
+    {
+        "id":30,
+        "naziv": "New Girl Order x Hello Kitty fleece hoodie with all over kitty print co-ord",
+        "img": {
+            "src": "hoodie10.png",
+            "alt": "Hoodie10"
+        },
+        "cena":{
+            "stara": "147",
+            "nova": "78.99"
+        },
+        "rating": 4,
+        "pol": "Z",
+        "kategorija": 1,
+        "brend": 18
+    },
+    {
+        "id":31,
+        "naziv": "ASOS LUXE Lounge relaxed oversized jacket in mink",
+        "img": {
+            "src": "j&c6.png",
+            "alt": "j&c6"
+        },
+        "cena":{
+            "stara": "/",
+            "nova": "99.99"
+        },
+        "rating": 3,
+        "pol": "Z",
+        "kategorija": 2,
+        "brend": 1
+    },
+    {
+        "id":32,
+        "naziv": "Bershka organic cotton oversized denim jacket in black",
+        "img": {
+            "src": "j&c7.png",
+            "alt": "j&c7"
+        },
+        "cena":{
+            "stara": "/",
+            "nova": "38.99"
+        },
+        "rating": 3,
+        "pol": "Z",
+        "kategorija": 2,
+        "brend": 7
+    },
+    {
+        "id":33,
+        "naziv": "Missguided tailored duster trench coat in blue",
+        "img": {
+            "src": "j&c8.png",
+            "alt": "j&c8"
+        },
+        "cena":{
+            "stara": "79",
+            "nova": "42.99"
+        },
+        "rating": 4,
+        "pol": "Z",
+        "kategorija": 2,
+        "brend": 19
+    },
+    {
+        "id":34,
+        "naziv": "Nike cropped borg fleece jacket in cream",
+        "img": {
+            "src": "j&c9.png",
+            "alt": "j&c9"
+        },
+        "cena":{
+            "stara": "127",
+            "nova": "68.99"
+        },
+        "rating": 5,
+        "pol": "Z",
+        "kategorija": 2,
+        "brend": 4
+    },
+    {
+        "id":35,
+        "naziv": "French Connection faux fur hood parka in blue",
+        "img": {
+            "src": "j&c10.png",
+            "alt": "j&c10"
+        },
+        "cena":{
+            "stara": "236",
+            "nova": "189.99"
+        },
+        "rating": 5,
+        "pol": "Z",
+        "kategorija": 2,
+        "brend": 20
+    },
+    {
+        "id":36,
+        "naziv": "ASOS DESIGN high rise 'slouchy' mom jean in dirty mid blue",
+        "img": {
+            "src": "jeans7.png",
+            "alt": "jeans7"
+        },
+        "cena":{
+            "stara": "/",
+            "nova": "33.99"
+        },
+        "rating": 4,
+        "pol": "Z",
+        "kategorija": 3,
+        "brend": 1
+    },
+    {
+        "id":37,
+        "naziv": "ASOS DESIGN Petite 'original' mom jean in clean black with extreme rips",
+        "img": {
+            "src": "jeans8.png",
+            "alt": "jeans8"
+        },
+        "cena":{
+            "stara": "/",
+            "nova": "42.99"
+        },
+        "rating": 5,
+        "pol": "Z",
+        "kategorija": 3,
+        "brend": 1
+    },
+    {
+        "id":38,
+        "naziv": "Bershka organic cotton mom jean in washed black",
+        "img": {
+            "src": "jeans9.png",
+            "alt": "jeans9"
+        },
+        "cena":{
+            "stara": "48",
+            "nova": "23.99"
+        },
+        "rating": 2,
+        "pol": "Z",
+        "kategorija": 3,
+        "brend": 7
+    },
+    {
+        "id":40,
+        "naziv": "Stradivarius organic cotton slim mom jean with stretch in washed blue",
+        "img": {
+            "src": "jeans10.png",
+            "alt": "jeans10"
+        },
+        "cena":{
+            "stara": "/",
+            "nova": "33.99"
+        },
+        "rating": 4,
+        "pol": "Z",
+        "kategorija": 3,
+        "brend": 21
+    },
+    {
+        "id":39,
+        "naziv": "ASOS DESIGN high rise 'slouchy' dadjean in washed black",
+        "img": {
+            "src": "jeans6.png",
+            "alt": "jeans6"
+        },
+        "cena":{
+            "stara": "/",
+            "nova": "35"
+        },
+        "rating": 3,
+        "pol": "Z",
+        "kategorija": 3,
+        "brend": 1
+    },
+    {
+        "id":41,
+        "naziv": "Bershka oversized jumper in camel",
+        "img": {
+            "src": "jumpers6.png",
+            "alt": "jumpers6"
+        },
+        "cena":{
+            "stara": "68",
+            "nova": "47.99"
+        },
+        "rating": 4,
+        "pol": "Z",
+        "kategorija": 5,
+        "brend": 7
+    },
+    {
+        "id":42,
+        "naziv": "Missguided roll neck jumper with cable sleeves in chocolate",
+        "img": {
+            "src": "jumpers7.png",
+            "alt": "jumpers7"
+        },
+        "cena":{
+            "stara": "/",
+            "nova": "17.99"
+        },
+        "rating": 4,
+        "pol": "Z",
+        "kategorija": 5,
+        "brend": 19
+    },
+    {
+        "id":43,
+        "naziv": "Topshop crop cable knit vest in cream",
+        "img": {
+            "src": "jumpers8.png",
+            "alt": "jumpers8"
+        },
+        "cena":{
+            "stara": "79",
+            "nova": "42.99"
+        },
+        "rating": 5,
+        "pol": "Z",
+        "kategorija": 5,
+        "brend": 22
+    },
+    {
+        "id":44,
+        "naziv": "Topshop zip-through cable knit cardigan in oatmeal",
+        "img": {
+            "src": "jumpers9.png",
+            "alt": "jumpers9"
+        },
+        "cena":{
+            "stara": "/",
+            "nova": "99.99"
+        },
+        "rating": 3,
+        "pol": "Z",
+        "kategorija": 5,
+        "brend": 22
+    },
+    {
+        "id":45,
+        "naziv": "In The Style x Saffron Barker cable knitted split side vest in cream",
+        "img": {
+            "src": "jumpers10.png",
+            "alt": "jumpers10"
+        },
+        "cena":{
+            "stara": "235",
+            "nova": "178.99"
+        },
+        "rating": 4,
+        "pol": "Z",
+        "kategorija": 5,
+        "brend": 23
+    },
+    {
+        "id":46,
+        "naziv": "ASOS DESIGN tracksuit sweat - basic jogger with contrast binding in organic cotton in grey marl",
+        "img": {
+            "src": "ts1.png",
+            "alt": "ts1"
+        },
+        "cena":{
+            "stara": "/",
+            "nova": "28.99"
+        },
+        "rating": 3,
+        "pol": "Z",
+        "kategorija": 6,
+        "brend": 1
+    },
+    {
+        "id":47,
+        "naziv": "ASOS DESIGN tracksuit sweatshirt - ribbed legging short in mauve",
+        "img": {
+            "src": "ts2.png",
+            "alt": "ts2"
+        },
+        "cena":{
+            "stara": "37",
+            "nova": "22.99"
+        },
+        "rating": 4,
+        "pol": "Z",
+        "kategorija": 6,
+        "brend": 1
+    },
+    {
+        "id":48,
+        "naziv": "ASOS DESIGN straight leg jogger with deep waistband and pintuck in organic cotton in grey marl",
+        "img": {
+            "src": "ts3.png",
+            "alt": "ts3"
+        },
+        "cena":{
+            "stara": "53",
+            "nova": "22.99"
+        },
+        "rating": 2,
+        "pol": "Z",
+        "kategorija": 6,
+        "brend": 1
+    },
+    {
+        "id":49,
+        "naziv": "Nike metallic swoosh neutral jogger in dark brown",
+        "img": {
+            "src": "ts4.png",
+            "alt": "ts4"
+        },
+        "cena":{
+            "stara": "/",
+            "nova": "18.99"
+        },
+        "rating": 5,
+        "pol": "Z",
+        "kategorija": 6,
+        "brend": 4
+    },
+    {
+        "id":50,
+        "naziv": "Nike grey essentials tracksuit",
+        "img": {
+            "src": "ts5.png",
+            "alt": "ts5"
+        },
+        "cena":{
+            "stara": "14",
+            "nova": "7.99"
+        },
+        "rating": 3,
+        "pol": "Z",
+        "kategorija": 6,
+        "brend": 4
+    }
+]
